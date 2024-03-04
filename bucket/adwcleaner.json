@@ -1,5 +1,5 @@
 {
-    "version": "8.4.0",
+    "version": "8.4.2",
     "description": "Free Adware Cleaner & Removal tool",
     "homepage": "https://www.malwarebytes.com/adwcleaner",
     "license": {
@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://download.toolslib.net/download/direct/1/latest?channel=release#/adwcleaner.exe",
-            "hash": "1f544da66675521a649e632108f86afb351ad336bd34b7b5c3d290827ebeef54"
+            "hash": "2a86a6129ade339a22b8574809015c69c1761d4ee2a7049f589aa35ef6711a3b"
         }
     },
     "bin": "adwcleaner.exe",
