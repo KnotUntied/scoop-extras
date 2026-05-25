@@ -1,10 +1,10 @@
 {
-    "version": "2.3.1",
+    "version": "2.4",
     "description": "Readable source code documentation for 20 programming languages.",
     "homepage": "http://www.naturaldocs.org/",
     "license": "AGPL-3.0-only",
-    "url": "http://www.naturaldocs.org/download/natural_docs/2.3.1/Natural_Docs_2.3.1.zip",
-    "hash": "92144e2deb1ff2606d29343cfea203ea890549ad2f77c03df1cea2d8014972cb",
+    "url": "http://www.naturaldocs.org/download/natural_docs/2.4/Natural_Docs_2.4.zip",
+    "hash": "6f6c29adaa7446983b310b6caaa32d5b036948ff7faade591342ad2439596199",
     "extract_dir": "Natural Docs",
     "bin": "NaturalDocs.exe",
     "checkver": {
